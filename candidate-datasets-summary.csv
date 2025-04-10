@@ -6,4 +6,3 @@ LEDGAR,Annotated clauses from contracts,NA,NA,huggingface-dataset,80000,True,Tru
 ToSDR-corpus,Corpus of legal texts,NA,txt/html,NA,12215,False,False,NA
 ToS-summaries,Terms of Service Agreements with their summaries,NA,NA,json,901,False,True,Text summary
 privacy-policies,Privacy policies annotated with binary classes in regards to three privacy questions.,xlsx,pdf,NA,100,False,True,Binary classification on wether or not: 1. what data will be collected; 2. in what ways the data will be used; 3. what data will be used in what way OR is the wording such that the company enjoys significant flexibility
-casehold,?,NA,NA,huggingface-dataset,53137,True,True,?
