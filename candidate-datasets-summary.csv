@@ -1,8 +1,0 @@
-name,description,summary_file_format,raw_files_format,aggregated_files_format,nb_records,split_train_test,labeled,labels
-CUAD,Extracts 41 categories of important clauses from a contract,csv,pdf/txt,NA,510,False,True,41 different clauses
-ContractNLI,Contracts annotated on 17 different hypotheses each,NA,pdf/htm/txt,json,607,True,True,"17 hypotheses - each can be 'entailed by', 'contradicting to' or 'not mentioned by' (support, contradicts, neutral)"
-Legal-Clauses,Annotated clauses from contracts,NA,NA,csv,21187,False,True,42 clause types
-LEDGAR,Annotated clauses from contracts,NA,NA,huggingface-dataset,80000,True,True,100 clause types
-ToSDR-corpus,Corpus of legal texts,NA,txt/html,NA,12215,False,False,NA
-ToS-summaries,Terms of Service Agreements with their summaries,NA,NA,json,901,False,True,Text summary
-privacy-policies,Privacy policies annotated with binary classes in regards to three privacy questions.,xlsx,pdf,NA,100,False,True,Binary classification on wether or not: 1. what data will be collected; 2. in what ways the data will be used; 3. what data will be used in what way OR is the wording such that the company enjoys significant flexibility
